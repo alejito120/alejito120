@@ -68,13 +68,13 @@
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejito120&show_icons=true&theme=tokyonight&hide_border=true&title_color=61dafb&icon_color=61dafb" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejito120&layout=compact&theme=tokyonight&hide_border=true&title_color=61dafb" alt="Lenguajes más usados" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alejito120&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15&border_color=24283b&bg_color=1a1b26&title_color=61dafb&icon_color=61dafb" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejito120&layout=compact&theme=tokyonight&hide_border=false&border_radius=15&border_color=24283b&bg_color=1a1b26&title_color=61dafb" alt="Lenguajes más usados" width="45%" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejito120&theme=tokyonight&hide_border=true" alt="Streak de GitHub" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejito120&theme=tokyonight&border_radius=15&hide_border=false&border=24283b&background=1a1b26" alt="Streak de GitHub" width="94%" />
 </div>
 
 ---
