@@ -1,4 +1,4 @@
-# <h1 align="center">¡Hola a todos! 👋 Soy Alejo Fazio</h1>
+# <h1 align="center">Como andan? Soy Alejo 🤗</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Desarrollador%20Full%20Stack%20Junior%20|%20Estudiante%20UTN&fontSize=24&fontAlignY=35&animation=twinkling" width="100%" />
